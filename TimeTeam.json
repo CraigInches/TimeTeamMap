@@ -1,0 +1,1509 @@
+{
+	"Season":{
+		"0":{
+			"Episode":{
+				"0":{
+					"Title": "Pilot",
+					"Location": "Dorchestor, Oxfordshire",
+					"AirDate": "None"
+				}	
+			}
+		},
+		"1": {
+			"Episode":{
+				"1":{
+					"Title": "The Guerrilla Base of the King",
+					"Location": "Athelney, Somerset",
+					"AirDate": "16/01/1994"
+				},
+				"2":{
+					"Title": "On the edge of an Empire", 
+					"Location": "Ribchester, Lancashire", 
+					"AirDate": "23/01/1994"
+				},
+				"3":{
+					"Title": "The New Town of a Norman Prince",
+					"Location": "Much Wenlock, Shropshire",
+					"AirDate": "30/01/1994"
+				},
+				"4":{
+					"Title": "The Fortress in the Lake",
+					"Location": "Llangorse, Powys",
+					"AirDate": "06/03/1994"
+				}
+			}
+		},
+		"2": {
+			"Episode":{
+				"1":{
+					"Title": "Lord of the Isles", 
+					"Location":"Finlaggen, Islay",
+					"AirDate":"08/01/1995"
+				},
+				"2":{
+					"Title": "The Saxon Graves",
+					"Location": "Winterbourne, Wiltshire",
+					"AirDate": "15/01/1995"
+				},
+				"3":{
+					"Title": "The Lost Villa",
+					"Location": "Tockenham, Wiltshire",
+					"AirDate": "22/01/1995"
+				},
+				"4":{
+					"Title": "The Archibiship's Back Garden",
+					"Location": "Lambeth Palace, London",
+					"AirDate": "29/01/1995"
+				},
+				"5":{
+					"Title": "Medieval Dining Hall",
+					"Location": "Hylton Castle, Sunderland",
+					"AirDate": "05/02/1995"
+				}
+			}
+		},
+		"3": {
+			"Episode":{
+				"1":{
+					"Title": "Prehistoric Fogou",
+					"Location":"Boleigh, Cornwall",
+					"AirDate":"07/01/1996"
+				},
+				"2":{
+					"Title": "Hunting for Mammoth",
+					"Location":"Stanton Harcourt, Oxfordshire",
+					"AirDate":"14/01/1996"
+				},
+				"3":{
+					"Title": "Village of the Templars",
+					"Location":"Templecombe, Somerset",
+					"AirDate":"21/01/1996"
+				},
+				"4":{
+					"Title": "A Wreck of the Spanish Armada",
+					"Location":"Teignmouth, Devon",
+					"AirDate":"28/01/1996"
+				},
+				"5":{
+					"Title": "Palace of the Irish Kings",
+					"Location":"Emain Macha",
+					"AirDate":"04/02/1996"
+				},
+				"6":{
+					"Title": "Treasures of the Roman Field",
+					"Location":"Lavenham, Suffolk",
+					"AirDate":"11/02/1996"
+				}
+			}
+		},
+		"4": {
+			"Episode":{
+				"1":{
+					"Title": "St Mary's City",
+					"Location":"Maryland, US",
+					"AirDate":"05/01/1997"
+				}
+			},
+			"Episode":{
+				"2":{
+					"Title": "Launceston Church",
+					"Location":"Launceston, Cornwall",
+					"AirDate":"12/01/1997"
+				}
+			},
+			"Episode":{
+				"3":{
+					"Title": "Birmingham",
+					"Location":"Soho, Birmingham",
+					"AirDate":"19/01/1997"
+				}
+			},
+			"Episode":{
+				"4":{
+					"Title": "Govan",
+					"Location":"Govan, Glasgow",
+					"AirDate":"26/01/1997"
+				}
+			},
+			"Episode":{
+				"5":{
+					"Title": "Malton",
+					"Location":"Malton, North Yorkshire",
+					"AirDate":"02/02/1997"
+				}
+			},
+			"Episode":{
+				"6":{
+					"Title": "Nethcravon",
+					"Location":"Netheravon, Wiltshire",
+					"AirDate":"09/02/1997"
+				}
+			}
+		},
+		"5": {
+			"Episode":{
+				"1":{
+					"Title": "Trumpeters House",
+					"Location":"Richmond, Surry",
+					"AirDate":"04/01/1998"
+				},
+				"2":{
+					"Title": "Grevlake",
+					"Location":"Grevlake, Somerset",
+					"AirDate":"11/01/1998"
+				},
+				"3":{
+					"Title": "Orkney",
+					"Location":"Sanday, Orkney",
+					"AirDate":"18/01/1998"
+				},
+				"4":{
+					"Title": "Turkdean",
+					"Location":"Turkdean, Gloucestershire",
+					"AirDate":"25/01/1998"
+				},
+				"5":{
+					"Title": "Mallorca",
+					"Location":"Deya, Majorca",
+					"AirDate":"01/02/1998"
+				},
+				"6":{
+					"Title": "Aston Eyre",
+					"Location":"Aston Eyre, Shropshire",
+					"AirDate":"08/02/1998"
+				},
+				"7":{
+					"Title": "Downpatrick",
+					"Location":"Downpatrick, Ireland",
+					"AirDate":"22/02/1998"
+				},
+				"8":{
+					"Title": "Worsall",
+					"Location":"Teesside, Worsall",
+					"AirDate":"01/03/1998"
+				}
+			}
+		},
+		"6": {
+			"Episode":{
+				"1":{
+					"Title": "Wedgewoods first Factory",
+					"Location":"Burslem, Stoke on Trent",
+					"AirDate":"03/01/1999"
+				},
+				"2":{
+					"Title": "Papcastle",
+					"Location":"Papcastle, Cumbria",
+					"AirDate":"10/01/1999"
+				},
+				"3":{
+					"Title": "Thetford",
+					"Location":"Thetfood, Norfolk",
+					"AirDate":"17/01/1999"
+				},
+				"4":{
+					"Title": "Cooper's Hole",
+					"Location":"Cheddar Gorge, Somerset",
+					"AirDate":"24/01/1999"
+				},
+				"5":{
+					"Title": "Plympton",
+					"Location":"Plympton, Devon",
+					"AirDate":"31/01/1999"
+				},
+				"6":{
+					"Title": "Lost dockyard",
+					"Location":"Smallhythe, Kent",
+					"AirDate":"07/02/1999"
+				},
+				"7":{
+					"Title": "Beauport Park",
+					"Location":"Beauport Park, East Sussex",
+					"AirDate":"14/02/1999"
+				},
+				"8":{
+					"Title": "Bombers in Reedham Marshes",
+					"Location":"Reedham Marshes, Norfolk",
+					"AirDate":"21/02/1999"
+				},
+				"9":{
+					"Title": "Turkdean II",
+					"Location":"Turkdean, Gloucestershire",
+					"AirDate":"28/02/1999"
+				},
+				"10":{
+					"Title": "Malvern Hills",
+					"Location":"Kemerton, Worcestershire",
+					"AirDate":"07/03/1999"
+				},
+				"11":{
+					"Title": "Kings Lynn",
+					"Location":"Bawsey St James, Norfolk",
+					"AirDate":"14/03/1999"
+				},
+				"12":{
+					"Title": "Pinney Grand Estate",
+					"Location":"Nevis",
+					"AirDate":"21/03/1999"
+				},
+				"13":{
+					"Title": "Pinney Grand Estate",
+					"Location":"Nevis",
+					"AirDate":"28/03/1999"
+				}
+			}
+		},
+		"7": {
+			"Episode":{
+				"1":{
+					"Title": "A Muslim Port in Spain",
+					"Location":"Denia, Spain",
+					"AirDate":"02/01/2000"
+				},
+				"2":{
+					"Title": "The Mosaic at the Bottom of the Garden",
+					"Location":"Cirencester, Gloucestershire",
+					"AirDate":"09/01/2000"
+				},
+				"3":{
+					"Title": "One of the First Spitfires Lost in France",
+					"Location":"Wierre-Effory, France",
+					"AirDate":"16/01/2000"
+				},
+				"4":{
+					"Title": "An Iron-Age Roundhouse and Henge",
+					"Location":"Waddon, Dorset",
+					"AirDate":"23/01/2000"
+				},
+				"5":{
+					"Title": "Hadrian's Wall",
+					"Location":"Birdoswalkd, Cumbria",
+					"AirDate":"30/01/2000"
+				},
+				"6":{
+					"Title": "In Search of the Earlist Traces of Mankind",
+					"Location":"Elveden, Suffolk",
+					"AirDate":"06/02/2000"
+				},
+				"7":{
+					"Title": "The Missing Cathedral and the Diabetic Prior",
+					"Location":"Coventry, West Midlands",
+					"AirDate":"13/02/2000"
+				},
+				"8":{
+					"Title": "The Royalists' Last Stand",
+					"Location":"Basing House, Hampshire",
+					"AirDate":"20/02/2000"
+				},
+				"9":{
+					"Title": "A Bronze-Age Barrow and Walkway",
+					"Location":"Flag Fen, Cambridgeshire",
+					"AirDate":"27/02/2000"
+				},
+				"10":{
+					"Title": "In Search of the Palace of King Offa",
+					"Location":"Sutton, St Nicholas, Herefodshire",
+					"AirDate":"05/03/2000"
+				},
+				"11":{
+					"Title": "A Roman Temple in Sight of the Millennium Dome",
+					"Location":"Greenwich, London",
+					"AirDate":"12/03/2000"
+				},
+				"12":{
+					"Title": "Nuns in Northumbria",
+					"Location":"Hartlepool, County Durham",
+					"AirDate":"19/03/2000"
+				},
+				"13":{
+					"Title": "York",
+					"Location":"York, Yorkshire",
+					"AirDate":"26/03/2000"
+				}
+			}
+		},
+		"8": {
+			"Episode":{
+				"1":{
+					"Title": "An Anglo-saxon Cemetery in Lincolnshire",
+					"Location":"Normanton, Lincolnshire",
+					"AirDate":"07/01/2001"
+				},
+				"2":{
+					"Title": "The Man Who Bought a Castle",
+					"Location":"Alderton, Northamptonshire",
+					"AirDate":"14/01/2000"
+				},
+				"3":{
+					"Title": "The Celtic Spring",
+					"Location":"Llygadwy, Powys",
+					"AirDate":"21/01/2000"
+				},
+				"4":{
+					"Title": "A Waltham Villa",
+					"Location":"Waltham Field, Whittington, Gloucestershire",
+					"AirDate":"28/01/2000"
+				},
+				"5":{
+					"Title": "The Lost Viaduct",
+					"Location":"Blaenavon, Torfaen",
+					"AirDate":"04/02/2000"
+				},
+				"6":{
+					"Title": "A Palace Sold for Scrap",
+					"Location":"Rycote, Thame, Oxfordshire",
+					"AirDate":"11/02/2000"
+				},
+				"7":{
+					"Title": "An Iron-Age Roundhouse",
+					"Location":"Salisbury Play, Wiltshire",
+					"AirDate":"18/02/2000"
+				},
+				"8":{
+					"Title": "The Bone Caves",
+					"Location":"Alveston, Gloucestershire",
+					"AirDate":"25/02/2000"
+				},
+				"9":{
+					"Title": "The Inter-City Villa",
+					"Location":"Basildon, Berkshire",
+					"AirDate":"04/03/2000"
+				},
+				"10":{
+					"Title": "Holy Island",
+					"Location":"Lindisfarne, Northumberland",
+					"AirDate":"11/03/2000"
+				},
+				"11":{
+					"Title": "The Leaning Tower of Bridgnorth",
+					"Location":"Bridgnorth, Shropshire",
+					"AirDate":"18/03/2000"
+				},
+				"12":{
+					"Title": "Three Tales of Canterbury",
+					"Location":"Canterbury, Kent",
+					"AirDate":"25/03/2000"
+				},
+				"13":{
+					"Title": "The Leper Hospital",
+					"Location":"Winchester, Hampshire",
+					"AirDate":"01/04/2000"
+				}
+			}
+		},
+		"9": {
+			"Episode":{
+				"1":{
+					"Title": "London's First Bridge",
+					"Location":"Vauxhall, London",
+					"AirDate":"06/01/2002"
+				},
+				"2":{
+					"Title": "The Roman's Panic",
+					"Location":"Ancaster, Lincolnshire",
+					"AirDate":"13/01/2002"
+				},
+				"3":{
+					"Title": "Diving for the Armada",
+					"Location":"Kinlochbervie, Sitherland",
+					"AirDate":"20/01/2002"
+				},
+				"4":{
+					"Title": "The Naughty Monastery",
+					"Location":"Chicksands, Bedfordshire",
+					"AirDate":"27/01/2002"
+				},
+				"5":{
+					"Title": "The Furnace in the Cellar",
+					"Location":"Ironbridge Gorge, Shropshire",
+					"AirDate":"03/02/2002"
+				},
+				"6":{
+					"Title": "An Ermine Street Pub",
+					"Location":"Cheshunt, Hertfordshire",
+					"AirDate":"10/02/2002"
+				},
+				"7":{
+					"Title": "Iron-Age Market",
+					"Location":"Helford, Cornwall",
+					"AirDate":"17/02/2002"
+				},
+				"8":{
+					"Title": "Siege House Shropshire",
+					"Location":"High Ercall, Shropshire",
+					"AirDate":"24/02/2002"
+				},
+				"9":{
+					"Title": "A Prehistoric Airfield",
+					"Location":"Throckmorton, Worcestershire",
+					"AirDate":"03/03/2002"
+				},
+				"10":{
+					"Title": "A Lost Roman City",
+					"Location":"Castleford Yorkshire",
+					"AirDate":"10/03/2002"
+				},
+				"11":{
+					"Title": "Every Castle Needs a Lord",
+					"Location":"Beaudesert, Warwickshire",
+					"AirDate":"17/03/2003"
+				},
+				"12":{
+					"Title": "Steptoe Et Filius",
+					"Location":"Yaverland, Isle of Wight",
+					"AirDate":"24/03/2002"
+				},
+				"13":{
+					"Title": "Seven Buckets and a Buckle",
+					"Location": "Breamore, Hampshire",
+					"AirDate": "31/03/2002"
+				}
+			}
+		},
+		"10": {
+			"Episode":{
+				"1":{
+					"Title": "Garden Secrets",
+					"Location":"Raunds, Northamptonshire",
+					"AirDate":"05/01/2003"
+				},
+				"2":{
+					"Title": "Mosaics, Mosaics, Mosaics",
+					"Location":"Dinnington, Somerset",
+					"AirDate":"12/01/2003"
+				},
+				"3":{
+					"Title": "Peak District Practices",
+					"Location":"Carsington, Derbyshire",
+					"AirDate":"19/01/2003"
+				},
+				"4":{
+					"Title": "The Giant's Grave",
+					"Location":"Fetlar, Shetland",
+					"AirDate":"26/01/2003"
+				},
+				"5":{
+					"Title": "Joust Dig It",
+					"Location":"Greenwich, London",
+					"AirDate":"02/02/2003"
+				},
+				"6":{
+					"Title": "Diggin Liberty",
+					"Location":"Merton, London",
+					"AirDate":"09/02/2003"
+				},
+				"7":{
+					"Title": "Death in a Crescent",
+					"Location":"Bath, Somerset",
+					"AirDate":"16/02/2003"
+				},
+				"8":{
+					"Title": "Back to Our Roots",
+					"Location":"Athelney, Somerset",
+					"AirDate":"23/02/2003"
+				},
+				"9":{
+					"Title": "Looking for the White House",
+					"Location":"Kew Gardens, London",
+					"AirDate":"02/03/2003"
+				},
+				"10":{
+					"Title": "Rescuing the Dead",
+					"Location":"Leven, Fife",
+					"AirDate":"09/03/2003"
+				},
+				"11":{
+					"Title": "Not a Blot on the Landscape",
+					"Location":"Castle Howard, Yorkshire",
+					"AirDate":"16/03/2003"
+				},
+				"12":{
+					"Title": "A View to a Kiln",
+					"Location":"Sedgefield, County Durham",
+					"AirDate":"23/03/2003"
+				},
+				"13":{
+					"Title": "Jailhouse Rocks",
+					"Location":"Appleby-in-Westmorland, Cumbria",
+					"AirDate":"30/03/2003"
+				}
+			}
+		},
+		"11": {
+			"Episode":{
+				"1":{
+					"Title": "In Search of the Brigittine Abbey",
+					"Location":"Syon House, London",
+					"AirDate":"04/01/2004"
+				},
+				"2":{
+					"Title": "A Roman Bath House and Edwardian Folly",
+					"Location":"Whitestaunton Manor, Somerset",
+					"AirDate":"11/01/2004"
+				},
+				"3":{
+					"Title": "The Crannog in the Loch",
+					"Location":"Loch Migdale, Scotland",
+					"AirDate":"18/01/2004"
+				},
+				"4":{
+					"Title": "Saxon Burials on the Ridge",
+					"Location":"South Carlotn, Lincolnshire",
+					"AirDate":"25/01/2004"
+				},
+				"5":{
+					"Title": "The Roman Fort That Wasn't There",
+					"Location":"Syndale, Kent",
+					"AirDate":"01/02/2004"
+				},
+				"6":{
+					"Title": "An Iron-Age Trading Centre",
+					"Location":"Green Island, Dorset",
+					"AirDate":"08/02/2004"
+				},
+				"7":{
+					"Title": "A Medieval Blast Furnace",
+					"Location":"Oakamoor, Staffordshire",
+					"AirDate":"15/02/2004"
+				},
+				"8":{
+					"Title": "Rescuing a Mesolithic Foreshore",
+					"Location":"Goldcliff, Newport",
+					"AirDate":"a"
+				},
+				"9":{
+					"Title": "Fertile Soils, Rich Archaeology",
+					"Location":"Wittenham Clumps, Oxfordshire",
+					"AirDate":"29/02/2004"
+				},
+				"10":{
+					"Title": "King Cnut's Manor",
+					"Location":"Nassington, Northamptonshire",
+					"AirDate":"07/03/2004"
+				},
+				"11":{
+					"Title": "Back-Garden Archaeology Revisiting a Roman villa",
+					"Location":"Ipswich, Suffolk",
+					"AirDate":"14/03/2004"
+				},
+				"12":{
+					"Title": "The Lost City of Roxburgh",
+					"Location":"Roxburg, Scotland",
+					"AirDate":"21/03/2004"
+				},
+				"13":{
+					"Title": "Brimming with Remains",
+					"Location":"Cranborne Chase, Dorset",
+					"AirDate":"28/03/2004"
+				}
+			}
+		},
+		"12": {
+			"Episode":{
+				"1":{
+					"Title": "The Manor That's Back to Front",
+					"Location":"Chenies Manor House, Buckinghamshire",
+					"AirDate":"02/01/2005"
+				},
+				"2":{
+					"Title": "The Monastery and the Manshine",
+					"Location":"Nether poppleton, Yorkshire",
+					"AirDate":"09/01/2005"
+				},
+				"3":{
+					"Title": "The Bombers in the Marsh",
+					"Location":"Warton, Lancashire",
+					"AirDate":"16/01/2005"
+				},
+				"4":{
+					"Title": "Fighting on the Frontier",
+					"Location":"Drumlanrig, Ireland",
+					"AirDate":"23/01/2005"
+				},
+				"5":{
+					"Title": "A Neolithic Cathedral",
+					"Location":"Northborough, Peterborough",
+					"AirDate":"30/01/2005"
+				},
+				"6":{
+					"Title": "In Search of Henry V's Flagship, Grace Dieu",
+					"Location":"Bursledon, Hampshire",
+					"AirDate":"06/02/2005"
+				},
+				"7":{
+					"Title": "Going Upmarket with the Romans",
+					"Location":"Standish, Gloucestershire",
+					"AirDate":"13/02/2005"
+				},
+				"8":{
+					"Title": "Picts and Hermits: Cave Dwellers of Fife",
+					"Location":"Wemyss, Fife",
+					"AirDate":"20/02/2005"
+				},
+				"9":{
+					"Title": "Lost Centuries of St Osyth",
+					"Location":"St Osyth, Essex",
+					"AirDate":"27/02/2005"
+				},
+				"10":{
+					"Title": "The Puzzle of Picket's Farm",
+					"Location":"South Perrott, Dorset",
+					"AirDate":"06/03/2005"
+				},
+				"11":{
+					"Title": "Norman Neighbours",
+					"Location":"Skipsea, Humberside",
+					"AirDate": "13/03/2005"
+				},
+				"12":{
+					"Title": "Hunting the Romans in South Sheilds - Tower Blocks and Togas",
+					"Location":"South Shields, Tyne and Wear",
+					"AirDate":"20/03/2005"
+				},
+				"13":{
+					"Title": "Animal Farm",
+					"Location":"Hanslope, Milton Keynes",
+					"AirDate":"03/04/2005"
+				}
+			}
+		},
+		"13": {
+			"Episode":{
+				"1":{
+					"Title": "The Bodies in the Shed - Glendon's Lost Graveyard",
+					"Location":"Glendon, Northamptonshire",
+					"AirDate":"22/01/2006"
+				},
+				"2":{
+					"Title": "Villas out of Molehills",
+					"Location":"Withington, Gloucestershire",
+					"AirDate":"29/01/2006"
+				},
+				"3":{
+					"Title": "Rubble at the Mill",
+					"Location":"Manchester",
+					"AirDate":"05/02/2006"
+				},
+				"4":{
+					"Title": "The First Tudor Palace?",
+					"Location":"Esher, Surrey",
+					"AirDate":"12/02/2006"
+				},
+				"5":{
+					"Title": "The Boat on the Rhine - A Roman Boat in Utrecht",
+					"Location":"Utrecht, Netherlands",
+					"AirDate":"19/02/2006"
+				},
+				"6":{
+					"Title": "Court of the Kentish King",
+					"Location":"Eastry, Kent",
+					"AirDate":"26/02/2006"
+				},
+				"7":{
+					"Title": "The Monks' Manor",
+					"Location":"Brimham, Harrogate, Yorkshire",
+					"AirDate":"05/03/2006"
+				},
+				"8":{
+					"Title": "Castle in the Round",
+					"Location":"Queenborough, Kent",
+					"AirDate":"12/03/2006"
+				},
+				"9":{
+					"Title": "Sussex Ups and Downs",
+					"Location":"Blackpatch, Sussex",
+					"AirDate":"19/03/2006"
+				},
+				"10":{
+					"Title": "Birthplace of the Confessor",
+					"Location":"Islip, Oxfordshire",
+					"AirDate":"26/03/2006"
+				},
+				"11":{
+					"Title": "Early Bath",
+					"Location":"Ffrith, Flintshire",
+					"AirDate":"02/04/2006"
+				},
+				"12":{
+					"Title": "The Taxman's Tavern - A Roman Mansio",
+					"Location":"Alfoldean, Horsham, Sussex",
+					"AirDate":"09/04/2006"
+				},
+				"13":{
+					"Title": "Scotch Broch",
+					"Location":"Applecross Scotland",
+					"AirDate":"16/04/2006"
+				}
+			}
+		},
+		"14": {
+			"Episode":{
+				"1":{
+					"Title": "Finds on the Fairway",
+					"Location":"Isle of Man",
+					"AirDate":"14/01/2007"
+				},
+				"2":{
+					"Title": "There's No Place like Rome",
+					"Location":"Blacklands, Somerset",
+					"AirDate":"21/01/2007"
+				},
+				"3":{
+					"Title": "School Diggers Medieval",
+					"Location":"Hooke Court, Dorset",
+					"AirDate":"28/01/2007"
+				},
+				"4":{
+					"Title": "The Druids' Last Stand",
+					"Location":"Amlwch, Anglesey",
+					"AirDate":"04/02/2007"
+				},
+				"5":{
+					"Title": "Sharpe's Redoubt",
+					"Location":"Sandgate, Kent",
+					"AirDate":"11/02/2007"
+				},
+				"6":{
+					"Title": "A Port and Stilton",
+					"Location":"Stilton, Cambridgeshire",
+					"AirDate":"18/02/2007"
+				},
+				"7":{
+					"Title": "A Tale of Two Villages",
+					"Location":"Wicken, Northamptonshire",
+					"AirDate":"25/02/2007"
+				},
+				"8":{
+					"Title": "No Stone Unturned",
+					"Location":"Warburton, Manchestor",
+					"AirDate":"04/03/2007"
+				},
+				"9":{
+					"Title": "The Domesday Mill",
+					"Location":"Dotton, Devon",
+					"AirDate":"11/03/2007"
+				},
+				"10":{
+					"Title": "The Cheyne Gang",
+					"Location":"Chesham Bois, Buckinghamshire",
+					"AirDate":"18/03/2007"
+				},
+				"11":{
+					"Title": "Road to the Relics",
+					"Location":"Godstone, Surrey",
+					"AirDate":"25/03/2007"
+				},
+				"12":{
+					"Title": "The Abbey Habit",
+					"Location":"Poulton, Cheshire",
+					"AirDate":"01/04/2007"
+				},
+				"13":{
+					"Title": "In the Shadow of the Tor",
+					"Location":"Bodmin Moor, Cornwall",
+					"AirDate":"08/04/2007"
+				}
+			}
+		},
+		"15": {
+			"Episode":{
+				"1":{
+					"Title": "Gold in the Moat",
+					"Location":"Codnor Castle, Derbyshire",
+					"AirDate":"06/01/2008"
+				},
+				"2":{
+					"Title": "Street of the Dead",
+					"Location":"Binchester, Country Durham",
+					"AirDate":"13/01/2008"
+				},
+				"3":{
+					"Title": "Bodies in the Dunes",
+					"Location":"Allasdale, Barra, Western Isles",
+					"AirDate":"20/01/2008"
+				},
+				"4":{
+					"Title": "The Naughty Nuns of Northampton",
+					"Location":"Towcester, Northamptonshire",
+					"AirDate":"27/01/2008"
+				},
+				"5":{
+					"Title": "Mysteries of the Mosaic",
+					"Location":"Coberley, Gloucestershire",
+					"AirDate":"03/02/2008"
+				},
+				"6":{
+					"Title": "Blitzkreigh on Shooter's Hill",
+					"Location":"South London",
+					"AirDate":"10/02/2008"
+				},
+				"7":{
+					"Title": "Keeping up with the Georgians",
+					"Location":"Hunstrete, Somerset",
+					"AirDate":"17/02/2008"
+				},
+				"8":{
+					"Title": "Saxons on the Edge",
+					"Location":"Stonton Wyville, Leicestershire",
+					"AirDate":"24/02/2008"
+				},
+				"9":{
+					"Title": "Fort of the Earls",
+					"Location":"Dungannon, Northern Ireland",
+					"AirDate":"02/03/2008"
+				},
+				"10":{
+					"Title": "From Constantinople to Cornwall",
+					"Location":"Padstow, North Cornwall",
+					"AirDate":"09/03/2008"
+				},
+				"11":{
+					"Title": "Five Thousand Tons of Stone",
+					"Location":"Hamsterley, Country Durham",
+					"AirDate":"16/03/2008"
+				},
+				"12":{
+					"Title": "The Romans Recycle",
+					"Location":"Wickenby, Lincolnshire",
+					"AirDate":"23/03/2008"
+				},
+				"13":{
+					"Title": "Hunting King Harold",
+					"Location":"Portskewett, Monmouthsire",
+					"AirDate":"30/03/2008"
+				}
+			}
+		},
+		"16": {
+			"Episode":{
+				"1":{
+					"Title": "The Trouble with Temples",
+					"Location":"Friar's Wash, Hertfordshire",
+					"AirDate":"04/01/2009"
+				},
+				"2":{
+					"Title": "The Wedding Present",
+					"Location":"Scargill, Country Durham",
+					"AirDate":"11/01/2009"
+				},
+				"3":{
+					"Title": "Heros' Hill",
+					"Location":"Knockdhu, Country Antrim",
+					"AirDate":"18/01/2009"
+				},
+				"4":{
+					"Title": "Toga Town",
+					"Location":"Caerwent, Monmouthshire",
+					"AirDate":"25/01/2009"
+				},
+				"5":{
+					"Title": "Blood, Sweat and Beers",
+					"Location":"Rise Hill, Cumbria",
+					"AirDate":"01/02/2009"
+				},
+				"6":{
+					"Title": "Buried Bishops and Belfries",
+					"Location":"Salisbury Cathedral, Wiltshire",
+					"AirDate":"08/02/2009"
+				},
+				"7":{
+					"Title": "Anarchy in the UK",
+					"Location":"Radcot, Oxfordshire",
+					"AirDate":"15/02/2009"
+				},
+				"8":{
+					"Title": "Mystery of the Ice Cream Villa",
+					"Location":"Colworth, Bedforshire",
+					"AirDate":"22/02/2009"
+				},
+				"9":{
+					"Title": "Hermit Harbour",
+					"Location":"Looe, Cornwall",
+					"AirDate":"01/03/2009"
+				},
+				"10":{
+					"Title": "Called to the Bar",
+					"Location":"Lincolns Inn, London",
+					"AirDate":"08/03/2009"
+				},
+				"11":{
+					"Title": "Beacon on the Fens",
+					"Location":"Cambridgeshire",
+					"AirDate":"15/03/2009"
+				},
+				"12":{
+					"Title": "The Hallow Way",
+					"Location":"Ulnaby, County Durham",
+					"AirDate":"22/03/2009"
+				},
+				"13":{
+					"Title": "Skeletons in the Shed",
+					"Location":"Blythburgh, Suffolk",
+					"AirDate":"29/03/2009"
+				}
+			}
+		},
+		"17": {
+			"Episode":{
+				"1":{
+					"Title": "Corridors of Power",
+					"Location":"Westminster Abbey, London",
+					"AirDate":"18/04/2010"
+				},
+				"2":{
+					"Title": "A Saintly Site",
+					"Location":"Isle of Mull, Inner Hebrides",
+					"AirDate":"25/04/2010"
+				},
+				"3":{
+					"Title": "Bridge over the River  Tees",
+					"Location":"Piercebridge, Country Durham",
+					"AirDate":"02/05/2010"
+				},
+				"4":{
+					"Title": "In the Halls of a Saxon King",
+					"Location":"Drayton, Oxfordshire",
+					"AirDate":"09/05/2010"
+				},
+				"5":{
+					"Title": "The Massacre in the Cellar",
+					"Location":"Hopton Castle, Shropshire",
+					"AirDate":"16/05/2010"
+				},
+				"6":{
+					"Title": "Potted History",
+					"Location":"Mildenhall, Wiltshire",
+					"AirDate":"23/05/2010"
+				},
+				"7":{
+					"Title": "Death and Dominoes: The first POW Camp",
+					"Location":"Norman Cross, Cambridgeshire",
+					"AirDate":"03/10/2010"
+				},
+				"8":{
+					"Title": "Something for the Weekend",
+					"Location":"Tregruk Castle, Llangybi, Monmouthshire",
+					"AirDate":"10/10/2010"
+				},
+				"9":{
+					"Title": "Governor's Green",
+					"Location":"Governor's Green, Portsmouth, UK",
+					"AirDate":"24/10/2010"
+				},
+				"10":{
+					"Title": "Priory Engagement",
+					"Location":"Burford, Oxfordshire",
+					"AirDate":"31/10/2010"
+				},
+				"11":{
+					"Title": "There's a Villa here somewhere",
+					"Location":"Litlington, Cambridgeshire",
+					"AirDate":"07/11/2010"
+				},
+				"12":{
+					"Title": "Commanding Hieghts",
+					"Location":"Dinmore Hill, Herefordshire",
+					"AirDate":"14/11/2010"
+				},
+				"13":{
+					"Title": "Rooting for the Romans",
+					"Location":"Bedford Perlieus Wood, Cambridgeshire",
+					"AirDate":"17/04/2011"
+				}
+			}
+		},
+		"18": {
+			"Episode":{
+				"1":{
+					"Title": "Reservoir Rituals",
+					"Location":"Tottiford Reservoir, Devon",
+					"AirDate":"06/02/2011"
+				},
+				"2":{
+					"Title": "Saxon death, Saxon gold",
+					"Location":"West Langton, Leicestershire",
+					"AirDate":"13/02/2011"
+				},
+				"3":{
+					"Title": "Romans on the Range",
+					"Location":"High Ham, Somerset",
+					"AirDate":"20/02/2011"
+				},
+				"4":{
+					"Title": "Hitler's Island Fortres",
+					"Location":"Les Gellettes, Jersey",
+					"AirDate":"27/02/2011"
+				},
+				"5":{
+					"Title": "Furnace in the Forest",
+					"Location":"Derwentcote, County Durham",
+					"AirDate":"06/03/2011"
+				},
+				"6":{
+					"Title": "Under the Gravestones",
+					"Location":"Castor, Cambridgeshire",
+					"AirDate":"13/03/2011"
+				},
+				"7":{
+					"Title": "House of the White Queen",
+					"Location":"Groby, Leicestershire",
+					"AirDate":"20/03/2011"
+				},
+				"8":{
+					"Title": "Cannons and Castles",
+					"Location":"Mont Orgueil, Jersey",
+					"AirDate":"26/03/2011"
+				},
+				"9":{
+					"Title": "Mystery of the Manor Moat",
+					"Location":"Llancaiach Fawr, South Wales",
+					"AirDate":"03/04/2011"
+				},
+				"10":{
+					"Title": "Search for the Domesday Mill",
+					"Location":"Buck Mill, Somerset",
+					"AirDate":"10/04/2011"
+				}
+			}
+		},
+		"19": {
+			"Episode":{
+				"1":{
+					"Title": "Dig by Wire",
+					"Location":"Gateholm Island, Pembrokshire",
+					"AirDate":"22/01/2012"
+				},
+				"2":{
+					"Title": "A Village Affair",
+					"Location":"Bitterley, Shropshire",
+					"AirDate":"29/01/2012"
+				},
+				"3":{
+					"Title": "The Drowned Town",
+					"Location":"Dunwich, Suffolk",
+					"AirDate":"05/02/2012"
+				},
+				"4":{
+					"Title": "The First King of Racing",
+					"Location":"Newmarket, Suffolk",
+					"AirDate":"12/02/2012"
+				},
+				"5":{
+					"Title": "Chapel of Secrets",
+					"Location":"Beadnell, Northhumberland",
+					"AirDate":"19/02/2012"
+				},
+				"6":{
+					"Title": "A Copper Bottomed Dig",
+					"Location":"Pentrechwyth, Swansea",
+					"AirDate":"26/02/2012"
+				},
+				"7":{
+					"Title": "The only Earl is Essex",
+					"Location":"Colne Priory, Essex",
+					"AirDate":"04/03/2012"
+				},
+				"8":{
+					"Title": "Secrets of the Dunes",
+					"Location":"Kenfig, Bridgend",
+					"AirDate":"18/03/2012"
+				},
+				"9":{
+					"Title": "Rome's Wild West",
+					"Location":"Caerleon, Newport",
+					"AirDate":"25/03/2012"
+				},
+				"10":{
+					"Title": "How to lose a Castle",
+					"Location":"Crewkerne, Somerset",
+					"AirDate":"01/04/2012"
+				},
+				"11":{
+					"Title": "King John's Lost Palace",
+					"Location":"Clipstone, Nottinghameshire",
+					"AirDate":"08/04/2012"
+				},
+				"12":{
+					"Title": "Time Team's Guid to Burial",
+					"Location":"England",
+					"AirDate":"29/04/2012"
+				},
+				"13":{
+					"Title": "Time Team's Greatest Discoveries",
+					"Location":"England",
+					"AirDate":"13/05/2012"
+				}
+			}
+		},
+		"20": {
+			"Episode":{
+				"1":{
+					"Title": "The forgotten Gunners of WWI",
+					"Location":"Grantham, Lincolnshire",
+					"AirDate":"11/11/2012"
+				},
+				"2":{
+					"Title": "Brancaster",
+					"Location":"Brancaster, Norfolk",
+					"AirDate":"06/01/2013"
+				},
+				"3":{
+					"Title": "A Capital Hill",
+					"Location":"Ely, Cardiff",
+					"AirDate":"13/01/2013"
+				},
+				"4":{
+					"Title": "Henham's Lost Mansions",
+					"Location":"Henham Park, Suffolk",
+					"AirDate":"20/01/2012"
+				},
+				"5":{
+					"Title": "Warriors",
+					"Location":"Figheldean, Wiltshire",
+					"AirDate":"27/01/2012"
+				},
+				"6":{
+					"Title": "Lost mines of Lakeland",
+					"Location":"Coniston, Cumbria",
+					"AirDate":"03/02/2012"
+				},
+				"7":{
+					"Title": "Horsehoe Hall",
+					"Location":"Oakham Castle, Rutland",
+					"AirDate":"10/02/2012"
+				},
+				"8":{
+					"Title": "Myster of the Thames-side Villa",
+					"Location":"Dropshort, Oxfordshire",
+					"AirDate":"17/02/2013"
+				},
+				"9":{
+					"Title": "The Lost Castle of Dundrum",
+					"Location":"Dumdrum Castle, Country Down",
+					"AirDate":"24/02/2013"
+				},
+				"10":{
+					"Title": "Wolseys Lost Palace",
+					"Location":"The More, Moor Park, Hertfordshire",
+					"AirDate":"03/03/2013"
+				},
+				"11":{
+					"Title": "An Englishman's Castle",
+					"Location":"Upton Castle, Cosheston, Pembrokeshire",
+					"AirDate":"10/03/2013"
+				},
+				"12":{
+					"Title": "The Time Team Guide to Experimental Archaeology",
+					"Location":"England",
+					"AirDate":"17/03/2013"
+				},
+				"13":{
+					"Title": "Twenty Years of Time Team",
+					"Location":"England",
+					"AirDate":"24/03/2013"
+				}
+			}
+		},
+		"Specials": {
+			"Episode":{
+				"1":{
+					"Title": "Christmans Special - Much Wenlock",
+					"Location":"Much Wenlock, Shropshire",
+					"AirDate":"28/12/1997"
+				},
+				"2":{
+					"Title": "Christmast Special - Barley Hall",
+					"Location":"Barley Hall, York",
+					"AirDate":"19/12/1999"
+				},
+				"3":{
+					"Title": "The Muster of Seahenge",
+					"Location":"Holme-next-the-Sea, Norfolk",
+					"AirDate":"29/12/1999"
+				},
+				"4":{
+					"Title": "The Real King Arthur",
+					"Location":"England",
+					"AirDate":"24/12/2000"
+				},
+				"5":{
+					"Title": "The Mystery of Mine Howe",
+					"Location":"Tankerness, Orkney",
+					"AirDate":"27/12/2000"
+				},
+				"6":{
+					"Title": "Conventry's Lost Cathedral",
+					"Location":"Conventry, Warwickshire",
+					"AirDate":"08/03/2011"
+				},
+				"7":{
+					"Title": "Island of the Eels",
+					"Location":"Ely, Cambridgeshire",
+					"AirDate":"17/05/2001"
+				},
+				"8":{
+					"Title": "Dinosaur Hunting",
+					"Location":"Dinosaur Belt, Monatana, US",
+					"AirDate":"30/12/2001"
+				},
+				"9":{
+					"Title": "The Big Dig in Canterbury",
+					"Location":"Canterbury, Kent",
+					"AirDate":"15/04/2002"
+				},
+				"10":{
+					"Title": "Londinium, The Edge of Empire",
+					"Location":"London",
+					"AirDate":"22/04/2002"
+				},
+				"11":{
+					"Title": "The Wreck of Colossus",
+					"Location":"St Mary's, Isles of Scilly",
+					"AirDate":"31/10/2002"
+				},
+				"12":{
+					"Title": "Handrians Well",
+					"Location":"England",
+					"AirDate":"10/04/2003"
+				},
+				"13":{
+					"Title": "Big Dig, the Hole Story",
+					"Location":"Canterbury, Kent",
+					"AirDate":"29/12/2003"
+				},
+				"14":{
+					"Title": "Sheffield Steel City",
+					"Location":"Sheffield, South Yorkshire",
+					"AirDate":"22/03/2004"
+				},
+				"15":{
+					"Title": "The House in the Loch",
+					"Location":"Loch Tay, Perthshire",
+					"AirDate":"19/04/2004"
+				},
+				"16":{
+					"Title": "The Ten Millon Pound House",
+					"Location":"Ightham Mote, Kent",
+					"AirDate":"03/05/2004"
+				},
+				"17":{
+					"Title": "D-Day",
+					"Location":"Normandy, France",
+					"AirDate":"31/05/2004"
+				},
+				"18":{
+					"Title": "King of Bling",
+					"Location":"Prittlewell, Essex",
+					"AirDate":"13/06/2005"
+				},
+				"19":{
+					"Title": "Britin's Lost Roman Circus",
+					"Location":"Colchester. Essex",
+					"AirDate":"20/06/2005"
+				},
+				"20":{
+					"Title": "Life on the Edge 1000 B.C",
+					"Location":"Washingborough, Lincoln",
+					"AirDate":""
+				},
+				"21":{
+					"Title": "Journey to Stonehenge",
+					"Location":"Durrington, Wiltshire",
+					"AirDate":"28/11/2005"
+				},
+				"22":{
+					"Title": "The big Roman Villa",
+					"Location":"Dinnington, Somerset",
+					"AirDate":"08/01/2006"
+				},
+				"23":{
+					"Title": "Buried by the Blitz",
+					"Location":"Shoreditch Park, London",
+					"AirDate":"29/10/2006"
+				},
+				"24":{
+					"Title": "Big Royal Dig",
+					"Location":"England",
+					"AirDate":"31/12/2006"
+				},
+				"25":{
+					"Title": "The God of Gothic",
+					"Location":"Ramsgate, Kent",
+					"AirDate":"01/03/2006"
+				},
+				"26":{
+					"Title": "Britain's Drowned World",
+					"Location":"England",
+					"AirDate":"24/04/2007"
+				},
+				"27":{
+					"Title": "Jamestown: America's Birthplace",
+					"Location":"Virginia, US",
+					"AirDate":"01/05/2007"
+				},
+				"28":{
+					"Title": "Secrets of the Stately Garden",
+					"Location":"Prior Park Garden, Bath",
+					"AirDate":"27/08/2007"
+				},
+				"29":{
+					"Title": "Codename: Ainsbrook",
+					"Location":"Yorkshire, UK",
+					"AirDate":"14/01/2008"
+				},
+				"30":{
+					"Title": "The Real Knights of the Round Table",
+					"Location":"Windsor Castle, Berkshire",
+					"AirDate":"25/02/2008"
+				},
+				"31":{
+					"Title": "The lost dock of Liverpool",
+					"Location":"Liverpool, Merseyside",
+					"AirDate":"21/04/2008"
+				},
+				"32":{
+					"Title": "Swords, Skills, and Strongholds",
+					"Location":"England",
+					"AirDate":"19/05/2008"
+				},
+				"33":{
+					"Title": "The lost WWI Bunker",
+					"Location":"Flanders, Belgium",
+					"AirDate":"10/11/2008"
+				},
+			
+				"34":{
+					"Title": "The Mystery of the Roman Treasure",
+					"Location":"Rome, Italy",
+					"AirDate":"26/12/2008"
+				},
+				"35":{
+					"Title": "Henry VIII's Lost Palaces",
+					"Location":"England",
+					"AirDate":"13/04/2009"
+				},
+				"36":{
+					"Title": "The Secrets of Stonehenge",
+					"Location":"Stonehenge, Wiltshire",
+					"AirDate":""
+				},
+				"37":{
+					"Title": "Dover Castle",
+					"Location":"Dover, Kent",
+					"AirDate":"19/12/2009"
+				},
+				"38":{
+					"Title": "Nelson's Hospital",
+					"Location":"Gosport, Hampshire",
+					"AirDate":"17/05/2010"
+				},
+				"39":{
+					"Title": "The secrets of Westminster Abbey",
+					"Location":"Westminister Abbey, London",
+					"AirDate":"28/06/2010"
+				},
+				"40":{
+					"Title": "The Real Vikings",
+					"Location":"England",
+					"AirDate":"11/10/2010"
+				},
+				"41":{
+					"Title": "War of the Roses",
+					"Location":"Bosworth, Leicestershire",
+					"AirDate":"16/03/2011"
+				},
+				"42":{
+					"Title": "The Somme's Secret Weapon",
+					"Location":"Mametz, Somme, France",
+					"AirDate":"24/04/2011"
+				},
+				"43":{
+					"Title": "Castle of the Saxon Kings",
+					"Location":"Bamburgh, Northumberland",
+					"AirDate":"24/05/2011"
+				},
+				"44":{
+					"Title": "Looking Underground",
+					"Location":"England",
+					"AirDate":"01/05/2011"
+				},
+				"45":{
+					"Title": "Boudica's Lost Tribe",
+					"Location":"England",
+					"AirDate":"04/05/2011"
+				},
+				"46":{
+					"Title": "The way we Lived",
+					"Location":"England",
+					"AirDate":"08/05/2011"
+				},
+				"47":{
+					"Title": "Brunel's Last Launch",
+					"Location":"England",
+					"AirDate":"10/11/2011"
+				},
+				"48":{
+					"Title": "Searching for Shakespeare's House",
+					"Location":"Stratford-Upon-Avond",
+					"AirDate":"11/03/2012"
+				},
+				"49":{
+					"Title": "Secrets of the Saxon Gold",
+					"Location":"Hammerwhich, Staffordshire",
+					"AirDate":"22/04/2012"
+				},
+				"50":{
+					"Title": "Rediscovery Ancient Britain",
+					"Location":"South Doreset Ridgeway, Dorset",
+					"AirDate":"17/06/2012"
+				},
+				"51":{
+					"Title": "Britain's Stone Age Tsunami",
+					"Location":"England",
+					"AirDate":"30/05/2013"
+				},
+				"52":{
+					"Title": "The Secret of Lincoln Jail",
+					"Location":"Lincoln Castle, Lincolnshire",
+					"AirDate":"30/06/2013"
+				},
+				"53":{
+					"Title": "The lost Submarine of WWI",
+					"Location":"England",
+					"AirDate":"07/07/2013"
+				},
+				"54":{
+					"Title": "1066:The Lost Battlefield",
+					"Location":"East Sussex",
+					"AirDate":"01/12/2013"
+				},
+				"55":{
+					"Title": "The Mandness of Bedlam",
+					"Location":"Bishopsgate, London",
+					"AirDate":"01/12/2013"
+				},
+				"56":{
+					"Title": "The Edwardian Grand Designer",
+					"Location":"Castle Drogo, Drewstiegnton, Devon",
+					"AirDate":"23/02/2014"
+				},
+				"57":{
+					"Title": "Britain's Bronze Age Mummies",
+					"Location":"Low Hauxley, Northumberland",
+					"AirDate":"02/03/2014"
+				},
+				"58":{
+					"Title": "Secrets of the Body Snatchers",
+					"Location":"London",
+					"AirDate":"31/08/2014"
+				},
+				"59":{
+					"Title": "The Boats that made Britain",
+					"Location":"Dover, Kent",
+					"AirDate":"07/09/2014"
+				}
+			}
+		}
+
+	}
+}
